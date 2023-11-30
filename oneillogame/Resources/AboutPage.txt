@@ -1,0 +1,1 @@
+﻿The "O'Nneillo Game" application was developed by Dawid Nowakowski, Student of Sheffield Hallam University, for his level 4 module "Programming Fundamentals". This "O'Neillo Game" application uses most if not all of the techniques explained and demonstrated throughut the year. (The GUIImageArray used within the application was provided by the Tutors).
